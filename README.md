@@ -1,6 +1,6 @@
 # ✊​✋​✌️​ Pedra, Papel e Tesoura
 
-Um jogo de pedra, papel, tesoura desenvolido em linguagem C, no qual o jogador enfrenta o computador.
+Um jogo de pedra, papel, tesoura desenvolvido em linguagem C, no qual o jogador enfrenta o computador.
 
 Este projeto foi criado com o objetivo de praticar linguagem C.
 
@@ -16,14 +16,14 @@ Este projeto foi criado com o objetivo de praticar linguagem C.
 
 ## ​🎮​ Como jogar
 
-1. Execute o programa.
-2. Escolha uma das opções: pedra, papel ou tesoura.
-3. O computador fará uma escolha aleatória.
-4. O programa informará quem venceu a rodada.
+1. Execute o programa. (Para executar o programa, é necessário ter o Visual Studio Code e um compilador para C, como o gcc, instalados.)
+2. Escolha "Iniciar Jogo" no Menu Principal.
+3. Escolha uma das opções: pedra, papel ou tesoura.
+4. O computador fará uma escolha aleatória.
+5. O programa informará quem venceu a rodada.
 
 ## ​​🛠️​ Tecnologias e ferramentas
 
 - Linguagem C
 - Visual Studio Code
 - Git (controle de versão)
-- GitHub (hospedagem do projeto)
