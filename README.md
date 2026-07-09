@@ -16,7 +16,7 @@ Este projeto foi criado com o objetivo de praticar linguagem C.
 
 ## ​🎮​ Como jogar
 
-1. Execute o programa. (Para executar o programa, é necessário ter o Visual Studio Code e um compilador para C, como o gcc, instalados.)
+1. Execute o programa. (Para executar o programa, é necessário ter o Visual Studio Code e um compilador para C, como o GCC, instalados.)
 2. Escolha "Iniciar Jogo" no Menu Principal.
 3. Escolha uma das opções: pedra, papel ou tesoura.
 4. O computador fará uma escolha aleatória.
